@@ -7,7 +7,7 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "test": "node ../test.js"
+    "test": "node test.js"
   },
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
